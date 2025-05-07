@@ -16,6 +16,7 @@ Initialized network             |  Evolved Network ($\beta = 0.2$)
 
 ## SIRV model
 SIRV depicts how epidemy of some illness evolves in time. Given contagiousness and recovery rate one can predict how will the dynamics proceed. This will also depend on how dense society is.
+
 ## Visualization
 
 The final output is a plot showing the number of:
